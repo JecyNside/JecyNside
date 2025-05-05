@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Josué from Lima, Peru.<br>🛠️ I’m working as a Frontend Junior Developer.<br>📗 I’m currently learning AWS Lambda and improving my backend skills.<br>⚡ In my free time, I work on personal projects, explore new technologies, and sometimes just relax with music or video games.</p>
+<p align="left">I'm Josué from Trujillo, Peru.<br>🛠️ I’m working as a Frontend Junior Developer.<br>📗 I’m currently learning AWS Lambda and improving my backend skills.<br>⚡ In my free time, I work on personal projects, explore new technologies, and sometimes just relax with music or video games.</p>
 
 ###
 
